@@ -1,3 +1,18 @@
+/*
+
+Given : Two Sorted Linked Lists
+To do : Combine them to form a single sorted linked list without creating a new linked list ( extra space )
+
+Example:
+Input:
+List 1 : 4 -> 8 -> 32 -> 45 
+List 2: 3 -> 6 -> 7 -> 40
+
+Output :
+3 -> 4 -> 6 -> 7 -> 8 -> 32 -> 40 -> 45
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
